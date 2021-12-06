@@ -60,6 +60,6 @@ body {
   }
 
   .intro {
-    display: flex;
+    justify-content: left;
     float: left;
   }
