@@ -58,3 +58,8 @@ body {
     line-height: 1.25rem;
     padding: 0.25rem;
   }
+
+  .intro {
+    display: flex;
+    justify-content: left;
+  }
