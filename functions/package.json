@@ -1,8 +1,8 @@
 {
-  "name": "stripe-checkout-netlify-serverless",
+  "name": "functions",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "get-products.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,7 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@stripe/stripe-js": "^1.21.2",
-    "netlify-cli": "^8.0.16"
+    "stripe": "^8.191.0"
   }
 }
