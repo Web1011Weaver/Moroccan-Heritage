@@ -1,7 +1,7 @@
 [
     {
       "sku": "DEMO001",
-      "name": "This Pretty Plant",
+      "name": "Moroccan Lamp",
       "description": "Look at this pretty plant. Photo by Galina N on Unsplash.",
       "image": "https://images.freeimages.com/images/large-previews/1c0/old-brass-lamp-in-cellar-1187806.jpg",
       "amount": 1000,
@@ -9,7 +9,7 @@
     },
     {
       "sku": "DEMO002",
-      "name": "Adventure Mug",
+      "name": "Dresser",
       "description": "We’re going on an adventure! Photo by Annie Spratt on Unsplash.",
       "image": "https://images.freeimages.com/images/large-previews/451/furniture-1-1425794.jpg",
       "amount": 1500,
