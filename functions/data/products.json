@@ -14,5 +14,13 @@
       "image": "https://images.freeimages.com/images/large-previews/451/furniture-1-1425794.jpg",
       "amount": 1500,
       "currency": "USD"
+    },
+    {
+      "sku": "DEMO002",
+      "name": "Dresser",
+      "description": "We’re going on an adventure! Photo by Annie Spratt on Unsplash.",
+      "image": "https://images.freeimages.com/images/large-previews/451/furniture-1-1425794.jpg",
+      "amount": 1500,
+      "currency": "USD"
     }
   ]
